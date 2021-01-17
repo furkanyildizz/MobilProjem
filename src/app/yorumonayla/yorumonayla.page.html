@@ -1,0 +1,62 @@
+
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Yorum Oku</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+ 
+ <ion-item>
+    <ion-label>MARKA</ion-label>
+    <ion-select value="dizi"  (ionChange)="modelgetir()" id="markasionayla" okText="SEÇ" cancelText="İPTAL" >
+      <ion-select-option *ngFor="let dizi of duzeltilmismarkalar" value={{dizi.marka}}>{{dizi.marka}} </ion-select-option>
+      
+    </ion-select>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>MODEL</ion-label>
+    <ion-select value="" okText="SEÇ" (ionChange)="yorumoku()"  id="modelionayla" cancelText="İPTAL">
+      <ion-select-option *ngFor="let dizi of tiklananmarkamodelleri" value={{dizi.model}}>{{dizi.model}}</ion-select-option>
+            
+    </ion-select>
+  </ion-item>
+
+  <ion-row>
+      <ion-col>
+        <ion-button type="submit" color="success" (click)="hepsinigetir()" expand="block">Hepsini Getir</ion-button>
+      </ion-col>
+    </ion-row>
+
+
+
+  <ion-item class="butonboyut" *ngFor="let dizim of beklenenlerbulundu" >
+    <div class="butonboyut">
+      <p>
+      Marka:{{dizim.marka}}
+      </p> 
+      <p>
+      Model:{{dizim.model}}
+      </p> 
+      <p>
+      Baslik:{{dizim.baslik}}
+      </p> 
+      
+      <p>
+      Yorum:{{dizim.yorum}}
+      </p>
+   
+      <p>
+      </p>
+     
+        <ion-button type="submit" expand="block" class="butonboyut" color="success" (click)="onayla(dizim)" >Onayla</ion-button>
+        <ion-button type="submit" expand="block" class="butonboyut" color="danger" (click)="sil(dizim)" >Sil</ion-button>
+       
+       
+      
+    </div>
+  </ion-item>
+
+  
+</ion-content>

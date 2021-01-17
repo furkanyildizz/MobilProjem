@@ -1,0 +1,54 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Yorum Oku</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+ 
+ <ion-item>
+    <ion-label>MARKA</ion-label>
+    <ion-select value=""  (ionChange)="modelgetir()" id="markasioku" okText="SEÇ" cancelText="İPTAL" >
+      <ion-select-option *ngFor="let dizi of duzeltilmismarkalar" value={{dizi.marka}}>{{dizi.marka}} </ion-select-option>
+      
+    </ion-select>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>MODEL</ion-label>
+    <ion-select value="" okText="SEÇ" (ionChange)="yorumoku()"  id="modelioku" cancelText="İPTAL">
+      <ion-select-option *ngFor="let dizi of tiklananmarkamodelleri" value={{dizi.model}}>{{dizi.model}}</ion-select-option>
+            
+    </ion-select>
+  </ion-item>
+
+
+
+  <ion-item *ngFor="let dizim of beklenenlerbulundu" >
+    
+    <div class="bura">
+      
+    <p>
+      Baslik: {{dizim.baslik}}
+      </p> 
+      
+      <p>
+      Yorum: {{dizim.yorum}}
+    </p>
+    
+    </div>
+
+  </ion-item>
+<!---<ion-item *ngFor="let dizim of beklenenlerbulundu" >
+<div>
+
+  <ion-label>Araç</ion-label>
+  <ion-textarea clearOnEdit="true"></ion-textarea>
+
+</div>
+</ion-item>
+-->
+
+
+  
+</ion-content>

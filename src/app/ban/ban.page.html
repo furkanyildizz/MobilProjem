@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>ban</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+<form>
+    <ion-item lines="full">
+      <ion-label position="floating">Kullanıcı Adı</ion-label>
+      <ion-input type="text" id="kullanici"required></ion-input>
+    </ion-item>
+
+
+    <ion-row>
+      <ion-col>
+        <ion-button type="submit" (click)="kullaniciengelle()" color="danger" expand="block">Kullanıcıyı Engelle</ion-button>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col>
+        <ion-button type="submit" (click)="engelikaldir()" color="success" expand="block">Engeli Kaldır</ion-button>
+      </ion-col>
+    </ion-row>
+  </form>
+</ion-content>

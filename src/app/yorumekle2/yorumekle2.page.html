@@ -1,0 +1,67 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Araba Bilgi</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+ 
+    <!--<ion-list-header>
+      Marka-Model Ara
+    </ion-list-header>
+    <mat-list-item *ngFor="let dizi of markalar" class="listele">
+    <p>
+    {{dizi.marka}}
+    </p>
+    <p>
+    {{dizi.model}}
+    </p>
+    </mat-list-item>-->
+ <ion-item>
+    <ion-label>MARKA</ion-label>
+    <ion-select value=""  (ionChange)="modelgetir()" id="markasiekle" okText="SEÇ" cancelText="İPTAL" >
+      <ion-select-option *ngFor="let dizi of duzeltilmismarkalar" value={{dizi.marka}}>{{dizi.marka}} </ion-select-option>
+      
+    </ion-select>
+  </ion-item>
+
+  <ion-item>
+    <ion-label>MODEL</ion-label>
+    <ion-select value="" okText="SEÇ"  id="modeliekle" cancelText="İPTAL">
+      <ion-select-option *ngFor="let dizi of tiklananmarkamodelleri" value={{dizi.model}}>{{dizi.model}}</ion-select-option>
+            
+    </ion-select>
+  </ion-item>
+
+
+
+
+    <ion-item lines="full">
+      <ion-label position="floating">MODEL YILI - MOTOR SEÇENEĞİ</ion-label>
+      <ion-input type="text" id="baslik"required></ion-input>
+    </ion-item>
+
+    <ion-item lines="full">
+    <ion-label style="font-size:20px"position="floating">YORUM</ion-label>
+     <p> 
+
+
+  </p>
+      <ion-item>
+          <ion-textarea cols="30" rows="10" id="yorum" placeholder="ARTILARI - EKSİLERİ - KRONİK SORUNLARI"></ion-textarea>
+      </ion-item>
+    </ion-item>
+  <p> 
+
+
+  </p>
+    <ion-row>
+      <ion-col>
+        <ion-button type="submit" color="success" (click)="yorumekle2()" expand="block">Yorum Ekle</ion-button>
+      </ion-col>
+    </ion-row>
+
+
+
+  
+</ion-content>
