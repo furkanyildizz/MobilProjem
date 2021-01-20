@@ -4,7 +4,7 @@ Veritabanı olarak firebase kullanılmıştır. Uygulamada kullanıcı giriş ve
 kullanıcı eğer veritabanında yönetici olarak tanımlı ise yönetici sayfasına, normal üye olarak tanımlı ise normal üye sayfasına yönlendirilmektedir. 
 
 ![alt text](https://github.com/[furkanyildizz]/[images]/blob/[branch]/hepsinigetir.PNG?raw=true)
-
+![images](hepsinigetir.PNG)
 PROJEYİ DENEMEK AMACI İLE:
 
 -Kullanıcı adı: yetki
