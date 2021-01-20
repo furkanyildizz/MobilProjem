@@ -16,15 +16,18 @@ olarak yönetici oluşturulmuştur ayrıca
 olarak kullanıcı oluşturulmuştur. GİRİŞ SAYFASI aşağıdaki gibidir.
 
 
-![alt text](https://github.com/furkanyildizz/images/blob/main/G%C4%B0R%C4%B0%C5%9ESAYFASI.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/kay%C4%B1tol.PNG) ![alt text](https://github.com/furkanyildizz/images/blob/main/G%C4%B0R%C4%B0%C5%9ESAYFASI.PNG)  
+![alt text](https://github.com/furkanyildizz/images/blob/main/G%C4%B0R%C4%B0%C5%9ESAYFASI.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/kay%C4%B1tol.PNG) 
 
-yetkilendirme işlemi sadece firebase üzerinden yapılabilmektedir. Ayrıca göstermek amacı ile Audi-R8 Kategorisinde yorumlar bulunmaktadır. 
+Kullanıcı kayıt olduktan sonra yetkilendirme işlemi sadece firebase üzerinden yapılabilmektedir.Örnek olarak Audi-R8 Kategorisinde yorumlar bulunmaktadır. 
 Yönetici sayfasında ise 2 adet yorum onaylanmak üzere beklemektedir.
 
 
 YÖNETİCİ SAYFASINDA
 
 MODEL EKLEME: Araba markasını ve modelini yazarak veritabanındaki model tablosuna ekler.
+
+![alt text](https://github.com/furkanyildizz/images/blob/main/markakaydedildi.PNG)
+Bu şekilde deneme markası ve deneme modelinde bi araba eklemiş olduk.
 
 YORUM OKU: Kullanıcıların arabalar hakkında yapılan ve onaylanama aşamasından geçen yorumları görebilmektedir. Bu yorumlar hangi kategoriye ait ise o kategori seçilerek görülebilir.
 Örneğin Audi markası ve R8 seçilerek Audi-R8 hakkında yapılan yorumlar gözükmektedir.
