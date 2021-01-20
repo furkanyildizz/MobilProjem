@@ -1,4 +1,4 @@
-npm install, npm audit fix, ionic serve ile çalıştırılmaktadır.
+**npm install, npm audit fix, ionic serve ile çalıştırılmaktadır.**
 
 Uygulamanın Genel Özellikleri: Uygulama insanların araba almadan önce alacağı araba hakkında önceden bilgi sahibi olmasını sağlamayı amaçlamıştır.
 Bu bilgilere o arabayı kullananların, araba hakkındaki görüşlerini bildirmesi ile ulaşmaktadır.
