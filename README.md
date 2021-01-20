@@ -43,6 +43,8 @@ YORUM ONAYLA: Burada yönetici arabalar hakkında yapılan yorumları onay testi
 "HEPSİNİ GETİR" butonu ile bütün arabalara ait yorumları ekrana getirebilir. Ekrana gelen yorumları "Onayla" basarak yorumu onaylar ve kullanıcıların yorumu görebilmesini sağlar veyahut
 "Sil" butonuna basarak o yorumu beklenenler tablosundan siler.
 
+![alt text](https://github.com/furkanyildizz/images/blob/main/kategorionayla.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/hepsinigetir.PNG)
+
 YORUM OKU: Kullanıcıların arabalar hakkında yapılan ve onaylanama aşamasından geçen yorumları görebilmektedir. Bu yorumlar hangi kategoriye ait ise o kategori seçilerek görülebilir.
 Örneğin Audi markası ve R8 seçilerek Audi-R8 hakkında yapılan yorumlar gözükmektedir.
 
