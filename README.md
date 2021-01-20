@@ -40,9 +40,9 @@ başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEML
 
 **YÖNETİCİ SAYFASINDA:**
 
-**YORUM ONAYLA:** Burada yönetici arabalar hakkında yapılan yorumları onay testinden geçirmektedir.YORUM OKUdaki kategori aramaya göre onaylanacak yorumu görebilir veya 
-"HEPSİNİ GETİR" butonu ile bütün arabalara ait yorumları ekrana getirebilir. Ekrana gelen yorumları "Onayla" basarak yorumu onaylar ve kullanıcıların yorumu görebilmesini sağlar veyahut
-"Sil" butonuna basarak o yorumu beklenenler tablosundan siler. Aşağıda ilk olarak "Deneme-Deneme" kategorisindeki onaylanacak yorumlar getirilmiş. İkinci fotoğrafta ise "Hepsini Getir" butonuna  bastıktan sonra gelen tüm beklenen yorumlar gözükmektedir.
+**YORUM ONAYLA:** Burada yönetici, arabalar hakkında yapılan yorumları onay testinden geçirmektedir. Kategori aramaya göre onaylanacak yorumu görebilir veya 
+**"HEPSİNİ GETİR"** butonu ile bütün arabalara ait yorumları ekrana getirebilir. Ekrana gelen yorumları **"Onayla"** basarak yorumu onaylar ve kullanıcıların yorumu görebilmesini sağlar veyahut
+**"Sil"** butonuna basarak o yorumu beklenenler tablosundan siler. Aşağıda ilk olarak **"Deneme-Deneme"** kategorisindeki onaylanacak yorumlar getirilmiş. İkinci fotoğrafta ise **"Hepsini Getir"** butonuna  bastıktan sonra gelen tüm beklenen yorumlar gözükmektedir.
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/kategorionayla.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/hepsinigetir.PNG)
 
