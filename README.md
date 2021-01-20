@@ -35,13 +35,18 @@ KULLANICI SAYFASINDA:
 YORUM EKLE: Kullanıcı kullandığı arabanın marka ve modeli seçer. Daha sonra başlık yazar(MODEL YILI-MOTOR SEÇENEĞİ bilgilerini burada bildirerek okuyacak olan kişiye kolaylık sağlar) 
 başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEMLERİ) sonrasında Yorum Ekle der ve yorumunu onaylanmak üzere göndermiş olur. Az önce eklediğimiz deneme markasına yorum ekleyelim.
 
-![alt text](https://github.com/furkanyildizz/images/blob/main/yorumeklemarka.PNG) ![alt text](https://github.com/furkanyildizz/images/blob/main/yorumeklendi.PNG)
-YORUM OKU: Kullanıcıların arabalar hakkında yapılan ve onaylanama aşamasından geçen yorumları görebilmektedir. Bu yorumlar hangi kategoriye ait ise o kategori seçilerek görülebilir.
-Örneğin Audi markası ve R8 seçilerek Audi-R8 hakkında yapılan yorumlar gözükmektedir.
+![alt text](https://github.com/furkanyildizz/images/blob/main/yorumeklendi.PNG)
+
+YÖNETİCİ SAYFASINDA:
 
 YORUM ONAYLA: Burada yönetici arabalar hakkında yapılan yorumları onay testinden geçirmektedir.YORUM OKUdaki kategori aramaya göre onaylanacak yorumu görebilir veya 
 "HEPSİNİ GETİR" butonu ile bütün arabalara ait yorumları ekrana getirebilir. Ekrana gelen yorumları "Onayla" basarak yorumu onaylar ve kullanıcıların yorumu görebilmesini sağlar veyahut
 "Sil" butonuna basarak o yorumu beklenenler tablosundan siler.
+
+YORUM OKU: Kullanıcıların arabalar hakkında yapılan ve onaylanama aşamasından geçen yorumları görebilmektedir. Bu yorumlar hangi kategoriye ait ise o kategori seçilerek görülebilir.
+Örneğin Audi markası ve R8 seçilerek Audi-R8 hakkında yapılan yorumlar gözükmektedir.
+
+
 
 KULLANICI ENGELLE: Burada yönetici kullanıcıları engelleme işlemi yapar. Engelleyeceği kullanıcının kullanıcı adını girerek engelleme işlemi yapar. Kullanıcı uygulamadan çıkış yaptıktan sonra daha giremez. 
 KULLANICI ADI PRİMARY KEYDİR AYNI OLAMAZ.
