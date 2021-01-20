@@ -1,5 +1,8 @@
 Uygulamanın Genel Özellikleri: Uygulama insanların araba almadan önce alacağı araba hakkında önceden bilgi sahibi olmasını sağlamayı amaçlamıştır.
 Bu bilgilere o arabayı kullananların, araba hakkındaki görüşlerini bildirmesi ile ulaşmaktadır.
+
+Araba alacakların, alacağı araba hakkında karşılaşacağı durumları bilmesini ve bu bilgiyi arabaya sahip olan 1.şahıs ağızlardan öğrenmesini hedefleyen bir platform oluşturulmaya çalışılmıştır.
+
 Veritabanı olarak firebase kullanılmıştır. Uygulamada kullanıcı giriş ve kayıt kısmı bulunmaktadır.Kullanıcı kayıt olduktan sonra kullanıcı adı ve şifreden oluşan giriş kısmını tamamlayınca
 kullanıcı eğer veritabanında yönetici olarak tanımlı ise yönetici sayfasına, normal üye olarak tanımlı ise normal üye sayfasına yönlendirilmektedir. 
 
