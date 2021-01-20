@@ -58,17 +58,15 @@ YORUM OKU: Kullanıcılar ve yöneticiler, arabalar hakkında yapılan ve onayla
 ![alt text](https://github.com/furkanyildizz/images/blob/main/yorumlar%C4%B1oku.PNG)
 
 
-
+YÖNETİCİ SAYFASINDA:
 
 KULLANICI ENGELLE: Burada yönetici kullanıcıları engelleme işlemi yapar. Engelleyeceği kullanıcının kullanıcı adını girerek engelleme işlemi yapar. Kullanıcı uygulamadan çıkış yaptıktan sonra daha giremez. 
 KULLANICI ADI PRİMARY KEYDİR AYNI OLAMAZ.
 
-KULLANICI SAYFASINDA
+![alt text](https://github.com/furkanyildizz/images/blob/main/furkanengelle.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/hesab%C4%B1n%C4%B1zengellendi.PNG)
 
-YORUM EKLE: Kullanıcı kullandığı arabanın marka ve modeli seçer. Daha sonra başlık yazar(MODEL YILI-MOTOR SEÇENEĞİ bilgilerini burada bildirerek okuyacak olan kişiye kolaylık sağlar) 
-başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEMLERİ) sonrasında Yorum Ekle der ve yorumunu onaylanmak üzere göndermiş olur.
 
-YORUMLARI OKU: Kullanıcı alacağı arabanın kategorisini seçerek bu araba hakkında yönetici tarafından onaylanmış yorumları görmektedir.
+
 
 HATIRLATMA!!: 
 -Kullanıcı tarafından eklenen yorumlar beklenenler tablosuna düşmektedir ve onaylama yapılmadan yorum oku bölümünde gözükmemektedir.
