@@ -13,10 +13,10 @@ olarak yönetici oluşturulmuştur ayrıca
 
 -Kullanıcı adı: furkan
 -Şifre: furkan
-olarak kullanıcı oluşturulmuştur
+olarak kullanıcı oluşturulmuştur. GİRİŞ SAYFASI aşağıdaki gibidir.
 
-GİRİŞ SAYFASI
-![alt text](https://github.com/furkanyildizz/images/blob/main/G%C4%B0R%C4%B0%C5%9ESAYFASI.PNG)
+
+![alt text](https://github.com/furkanyildizz/images/blob/main/G%C4%B0R%C4%B0%C5%9ESAYFASI.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/kay%C4%B1tol.PNG)
 
 yetkilendirme işlemi sadece firebase üzerinden yapılabilmektedir. Ayrıca göstermek amacı ile Audi-R8 Kategorisinde yorumlar bulunmaktadır. 
 Yönetici sayfasında ise 2 adet yorum onaylanmak üzere beklemektedir.
