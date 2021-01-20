@@ -75,6 +75,7 @@ başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEML
 
 
 **HATIRLATMA!!:**
+
 -Kullanıcı tarafından eklenen yorumlar beklenenler tablosuna düşmektedir ve onaylama yapılmadan yorum oku bölümünde gözükmemektedir.
 
 -Eğer daha fazla yorum görmek istenirse önceden Audi-R8 kategorisine eklenmiştir.
