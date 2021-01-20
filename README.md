@@ -5,7 +5,7 @@ kullanıcı eğer veritabanında yönetici olarak tanımlı ise yönetici sayfas
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/firebasetablolar.PNG)
 
-PROJEYİ DENEMEK AMACI İLE:
+""PROJEYİ DENEMEK AMACI İLE:""
 
 -Kullanıcı adı: yetki
 -Şifre: yetki
@@ -60,7 +60,7 @@ YORUM OKU: Kullanıcılar ve yöneticiler, arabalar hakkında yapılan ve onayla
 
 YÖNETİCİ SAYFASINDA:
 
-KULLANICI ENGELLE: Burada yönetici kullanıcıları engelleme işlemi yapar. Engelleyeceği kullanıcının kullanıcı adını girerek engelleme işlemi yapar. Kullanıcı uygulamadan çıkış yaptıktan sonra daha giremez. 
+KULLANICI ENGELLE: Burada yönetici kullanıcıları engelleme işlemi yapar. Engelleyeceği kullanıcının kullanıcı adını girerek engelleme işlemi yapar. Kullanıcı uygulamadan çıkış yaptıktan sonra daha giremez. Aşağıdaki ilk resimde furkan adlı kullanıcıyı engellediğimizi görmekteyiz. İkinci resimde ise furkan adlı kullanıcının giriş yapmak istediğinde "Hesabınız Engellendi" mesajını görmekteyiz.
 KULLANICI ADI PRİMARY KEYDİR AYNI OLAMAZ.
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/furkanengelle.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/hesab%C4%B1n%C4%B1zengellendi.PNG)
