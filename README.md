@@ -46,7 +46,7 @@ başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEML
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/kategorionayla.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/hepsinigetir.PNG)
 
-Deneme-Deneme kategorisindeki yorumu onaylayalım.
+**Deneme-Deneme kategorisindeki yorumu onaylayalım.**
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/yorumonayland%C4%B1.PNG)
 
