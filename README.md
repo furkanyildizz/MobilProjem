@@ -22,13 +22,20 @@ Kullanıcı kayıt olduktan sonra yetkilendirme işlemi sadece firebase üzerind
 Yönetici sayfasında ise 2 adet yorum onaylanmak üzere beklemektedir.
 
 
-YÖNETİCİ SAYFASINDA
+YÖNETİCİ SAYFASINDA:
 
 MODEL EKLEME: Araba markasını ve modelini yazarak veritabanındaki model tablosuna ekler.
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/markakaydedildi.PNG)
+
 Bu şekilde deneme markası ve deneme modelinde bi araba eklemiş olduk.
 
+KULLANICI SAYFASINDA:
+
+YORUM EKLE: Kullanıcı kullandığı arabanın marka ve modeli seçer. Daha sonra başlık yazar(MODEL YILI-MOTOR SEÇENEĞİ bilgilerini burada bildirerek okuyacak olan kişiye kolaylık sağlar) 
+başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEMLERİ) sonrasında Yorum Ekle der ve yorumunu onaylanmak üzere göndermiş olur. Az önce eklediğimiz deneme markasına yorum ekleyelim.
+
+![alt text](https://github.com/furkanyildizz/images/blob/main/yorumeklemarka.PNG) ![alt text](https://github.com/furkanyildizz/images/blob/main/yorumeklendi.PNG)
 YORUM OKU: Kullanıcıların arabalar hakkında yapılan ve onaylanama aşamasından geçen yorumları görebilmektedir. Bu yorumlar hangi kategoriye ait ise o kategori seçilerek görülebilir.
 Örneğin Audi markası ve R8 seçilerek Audi-R8 hakkında yapılan yorumlar gözükmektedir.
 
