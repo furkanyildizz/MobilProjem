@@ -1,7 +1,9 @@
 Uygulamanın Genel Özellikleri: Uygulama insanların araba almadan önce alacağı araba hakkında önceden bilgi sahibi olmasını sağlamayı amaçlamıştır.
 Bu bilgilere o arabayı kullananların, araba hakkındaki görüşlerini bildirmesi ile ulaşmaktadır.
 Veritabanı olarak firebase kullanılmıştır. Uygulamada kullanıcı giriş ve kayıt kısmı bulunmaktadır.Kullanıcı kayıt olduktan sonra kullanıcı adı ve şifreden oluşan giriş kısmını tamamlayınca
-kullanıcı eğer veritabanında yönetici olarak tanımlı ise yönetici sayfasına, normal üye olarak tanımlı ise normal üye sayfasına yönlendirilmektedir. Projedeki firebase tabloları aşağıda gösterilmiştir.
+kullanıcı eğer veritabanında yönetici olarak tanımlı ise yönetici sayfasına, normal üye olarak tanımlı ise normal üye sayfasına yönlendirilmektedir. 
+
+Projedeki firebase tabloları aşağıda gösterilmiştir.
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/firebasetablolar.PNG)
 
@@ -61,7 +63,7 @@ başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEML
 
 **YÖNETİCİ SAYFASINDA:**
 
-**KULLANICI ENGELLE:** Burada yönetici kullanıcıları engelleme işlemi yapar. Engelleyeceği kullanıcının kullanıcı adını girerek engelleme işlemi yapar. Kullanıcı uygulamadan çıkış yaptıktan sonra daha giremez. Aşağıdaki ilk resimde furkan adlı kullanıcıyı engellediğimizi görmekteyiz. İkinci resimde ise furkan adlı kullanıcının giriş yapmak istediğinde "Hesabınız Engellendi" mesajını görmekteyiz.
+**KULLANICI ENGELLE:** Burada yönetici kullanıcıları engelleme işlemi yapar. Engelleyeceği kullanıcının kullanıcı adını girerek engelleme işlemi yapar. Kullanıcı uygulamadan çıkış yaptıktan sonra daha giremez. Aşağıdaki ilk resimde furkan adlı kullanıcıyı engellediğimizi görmekteyiz. İkinci resimde ise furkan adlı kullanıcının giriş yapmak istediğinde **"Hesabınız Engellendi"** mesajını görmekteyiz.
 **KULLANICI ADI PRİMARY KEYDİR AYNI OLAMAZ.**
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/furkanengelle.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/hesab%C4%B1n%C4%B1zengellendi.PNG)
@@ -71,4 +73,5 @@ başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEML
 
 **HATIRLATMA!!:**
 -Kullanıcı tarafından eklenen yorumlar beklenenler tablosuna düşmektedir ve onaylama yapılmadan yorum oku bölümünde gözükmemektedir.
+
 -Eğer daha fazla yorum görmek istenirse önceden Audi-R8 kategorisine eklenmiştir.
