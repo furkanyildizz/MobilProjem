@@ -34,7 +34,7 @@ Bu şekilde deneme markası ve deneme modelinde bi araba eklemiş olduk.
 **KULLANICI SAYFASINDA:**
 
 **YORUM EKLE:** Kullanıcı kullandığı arabanın marka ve modeli seçer. Daha sonra başlık yazar(MODEL YILI-MOTOR SEÇENEĞİ bilgilerini burada bildirerek okuyacak olan kişiye kolaylık sağlar) 
-başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEMLERİ) sonrasında Yorum Ekle der ve yorumunu onaylanmak üzere göndermiş olur. Az önce eklediğimiz deneme markasına yorum ekleyelim.
+başlığı yazdıktan sonra yorumunu yazar(ARTILARI-EKSİLERİ-KRONİK PROBLEMLERİ) sonrasında **"Yorum Ekle"** der ve yorumunu onaylanmak üzere göndermiş olur. Az önce eklediğimiz deneme markasına yorum ekleyelim.
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/yorumeklendi.PNG)
 
