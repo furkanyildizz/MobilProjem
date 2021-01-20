@@ -7,12 +7,12 @@ kullanıcı eğer veritabanında yönetici olarak tanımlı ise yönetici sayfas
 
 **PROJEYİ DENEMEK AMACI İLE:**
 
-**-Kullanıcı adı:** yetki
-**-Şifre:** yetki
+**Kullanıcı adı:** "yetki"
+**Şifre:** "yetki"
 olarak **yönetici** oluşturulmuştur ayrıca
 
-**-Kullanıcı adı:** furkan
-**-Şifre:** furkan
+**Kullanıcı adı:** "furkan"
+**Şifre:** "furkan"
 olarak **kullanıcı** oluşturulmuştur. 
 
 **GİRİŞ SAYFASI** aşağıdaki gibidir.
