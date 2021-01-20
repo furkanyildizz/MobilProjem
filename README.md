@@ -45,8 +45,14 @@ YORUM ONAYLA: Burada yönetici arabalar hakkında yapılan yorumları onay testi
 
 ![alt text](https://github.com/furkanyildizz/images/blob/main/kategorionayla.PNG)![alt text](https://github.com/furkanyildizz/images/blob/main/hepsinigetir.PNG)
 
-YORUM OKU: Kullanıcıların arabalar hakkında yapılan ve onaylanama aşamasından geçen yorumları görebilmektedir. Bu yorumlar hangi kategoriye ait ise o kategori seçilerek görülebilir.
-Örneğin Audi markası ve R8 seçilerek Audi-R8 hakkında yapılan yorumlar gözükmektedir.
+Deneme-Deneme kategorisindeki yorumu onaylayalım.
+
+KULLANICI SAYFASINDA-YÖNETİCİ SAYFASINDA:
+YORUM OKU: Kullanıcılar ve yöneticiler, arabalar hakkında yapılan ve onaylanama aşamasından geçen yorumları görebilmektedir. Bu yorumlar hangi kategoriye ait ise o kategori seçilerek görülebilir.
+Örneğin az önce eklediğimiz Deneme markası ve Deneme modeli seçilerek Deneme-Deneme hakkında yapılan yorumlar gözükmektedir.
+
+![alt text](https://github.com/furkanyildizz/images/blob/main/yorumlar%C4%B1oku.PNG)
+
 
 
 
